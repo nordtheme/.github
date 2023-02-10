@@ -1,0 +1,8 @@
+# Copyright (c) 2022-present Sven Greb <development@svengreb.de>
+# This source code is licensed under the MIT license found in the license file.
+
+# Configuration for the sponsor button in repositories.
+# References:
+#   1. https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
+github: [svengreb]
+custom: ["https://www.paypal.me/svengreb"]
