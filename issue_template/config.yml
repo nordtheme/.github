@@ -1,0 +1,19 @@
+# Copyright (c) 2016-present Sven Greb <development@svengreb.de>
+# This source code is licensed under the MIT license found in the license file.
+
+# Configurations for GitHub issue forms & templates.
+# Referenes:
+#   1. https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#configuring-the-template-chooser
+
+# Allow blank issues by default and create issue forms/templates per repository to match specific requirements.
+blank_issues_enabled: true
+contact_links:
+  - name: Question & Support
+    about: Ask questions and discuss with other community members.
+    url: https://github.com/orgs/nordtheme/discussions
+  - name: Feature & Port Requests
+    about: Please submit feature & port requests to the community discussions.
+    url: https://github.com/orgs/nordtheme/discussions
+  - name: Realtime Help & Communities
+    about: Join the community platforms to chat, stay up-to-date and find project related content.
+    url: https://github.com/nordtheme/.github/blob/main/support.md#updates-communities--content
