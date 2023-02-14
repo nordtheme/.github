@@ -13,7 +13,7 @@
 <details>
 <summary><strong>Bootstrap based on <code>tmpl-go</code> template repository</strong> — #1 (⊶ 8ec80d1e) by <a href="https://github.com/svengreb" target="_blank">@svengreb</a></summary>
 
-↠ Bootstrapped the basic project setup, structure and development workflow based on the [“tmpl-go“ template repository][4].
+↠ Bootstrapped the basic project setup, structure and development workflow based on the [“tmpl“ template repository][4].
 
 </details>
 
@@ -129,7 +129,7 @@ otherwise Markdown elements are not parsed and rendered!
 
 [2]: https://github.com/nordtheme/.github/compare/8ec80d1e...main
 [3]: https://github.com/nordtheme/.github/commit/8ec80d1e
-[4]: https://github.com/svengreb/tmpl-go
+[4]: https://github.com/svengreb/tmpl
 [5]: https://github.blog/2017-07-06-introducing-code-owners
 [6]: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
 [7]: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners#codeowners-file-location
