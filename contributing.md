@@ -98,10 +98,6 @@ Some issues are created with missing information, are not reproducible, or plain
 
 We‘re always looking for more opinions on discussions in issues and pull request reviews which is a good opportunity to influence the future direction of Nord.
 
-(`td1`)
-
-(`td2`) <!-- The [question][8] issue label is a good place to find ongoing discussions and questions. -->
-
 ## Style Guides
 
 Larger and major open source projects have their own style guides, a set of standards and conventions for the writing and design of code, documentations and [Git][22] [][^1] [commit messages][23]. It is much easier to understand content and a large code base when it is written with a consistent style.
