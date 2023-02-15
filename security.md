@@ -79,6 +79,24 @@ Confirmed vulnerabilities will be investigated and patched as quickly as possibl
 
 Resolved security vulnerabilities will be made public as [advisory][15] [][^2] [][^3] on GitHub and, in most cases, additionally announced via other official communication channels and platforms. This might also include a guide on how to apply mitigating steps to aid users in closing the security vulnerability as simply as possible.
 
+<p align="center">
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/nordtheme/assets/main/static/images/elements/separators/iceberg/footer/dark/spaced.svg?sanitize=true" width="100%" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <source srcset="https://raw.githubusercontent.com/nordtheme/assets/main/static/images/elements/separators/iceberg/footer/light/spaced.svg?sanitize=true" width="100%" media="(prefers-color-scheme: dark)" />
+    <img src="https://raw.githubusercontent.com/nordtheme/assets/main/static/images/elements/separators/iceberg/footer/dark/spaced.svg?sanitize=true" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  Copyright &copy; 2016-present <a href="https://www.svengreb.de" target="_blank">Sven Greb</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/nordtheme/.github/blob/main/license" target="_blank">
+    <img src="https://img.shields.io/static/v1.svg?style=flat-square&label=License&message=MIT&logoColor=eceff4&logo=creativecommons&colorA=4c566a&colorB=88c0d0"/>
+  </a>
+</p>
+
 <!--lint disable final-definition-->
 
 [1]: https://github.com/nordtheme
