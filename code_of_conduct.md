@@ -87,7 +87,23 @@ Please use one of the following ways to contact us or send reports:
 - **[Discord][13]** (inadvisable) — Send a private (direct) message to [`svengreb#2186`][14] or the [`nordtheme#0637`][15] project account or join the official Nord [Discord server][16] to let a verified community moderator or manager forward your report. Note that Discord is a a commercially driven platform and there is no end-to-end encryption in place and therefore communication data could be intercepted.
 - **[Mastodon][17]** (not optimal) — send [a private (direct) message][18] to [`@svengreb@fosstodon.org`][19] or the [`@nordtheme@fosstodon.org`][20] project account. Note that communications are not end-to-end encrypted so please make sure to transfer possibly sensitive data via securely encrypted methods.
 
----
+<p align="center">
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/nordtheme/assets/main/static/images/elements/separators/iceberg/footer/dark/spaced.svg?sanitize=true" width="100%" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <source srcset="https://raw.githubusercontent.com/nordtheme/assets/main/static/images/elements/separators/iceberg/footer/light/spaced.svg?sanitize=true" width="100%" media="(prefers-color-scheme: dark)" />
+    <img src="https://raw.githubusercontent.com/nordtheme/assets/main/static/images/elements/separators/iceberg/footer/dark/spaced.svg?sanitize=true" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  Copyright &copy; 2016-present <a href="https://www.svengreb.de" target="_blank">Sven Greb</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/nordtheme/.github/blob/main/license" target="_blank">
+    <img src="https://img.shields.io/static/v1.svg?style=flat-square&label=License&message=MIT&logoColor=eceff4&logo=creativecommons&colorA=4c566a&colorB=88c0d0"/>
+  </a>
+</p>
 
 Thanks for the inspirations to GitHub‘s [Open Source Guides][2], the [Contributor Covenant Version 2.1][4], [PhotoPrism][3] and the [Open Source How][8].
 

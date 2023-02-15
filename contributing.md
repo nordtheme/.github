@@ -153,9 +153,25 @@ To entirely understand your bug report or enhancement, developers will need to v
 - **Eliminate any issues that are not relevant** — Ensure that there are no compile-time errors.
 - **Make sure that the example actually reproduces the problem** — Sometimes the bug gets fixed inadvertently or unconsciously while composing the example or does not occur when running in a “fresh“ development environment.
 
-## Credits
+<p align="center">
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/nordtheme/assets/main/static/images/elements/separators/iceberg/footer/dark/spaced.svg?sanitize=true" width="100%" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <source srcset="https://raw.githubusercontent.com/nordtheme/assets/main/static/images/elements/separators/iceberg/footer/light/spaced.svg?sanitize=true" width="100%" media="(prefers-color-scheme: dark)" />
+    <img src="https://raw.githubusercontent.com/nordtheme/assets/main/static/images/elements/separators/iceberg/footer/dark/spaced.svg?sanitize=true" width="100%" />
+  </picture>
+</p>
 
-Thanks for the inspirations and attributions to GitHub‘s [Open Source Guides][5] and various contribution guides of large open source projects like [React][33], [Atom][35] and [Ruby on Rails][34].
+<p align="center">
+  Copyright &copy; 2016-present <a href="https://www.svengreb.de" target="_blank">Sven Greb</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/nordtheme/.github/blob/main/license" target="_blank">
+    <img src="https://img.shields.io/static/v1.svg?style=flat-square&label=License&message=MIT&logoColor=eceff4&logo=creativecommons&colorA=4c566a&colorB=88c0d0"/>
+  </a>
+</p>
+
+Thanks for the inspirations to GitHub‘s [Open Source Guides][5] and various contribution guides of large open source projects like [React][33], [Atom][35], [PhotoPrism][39] and [Ruby on Rails][34].
 
 <!--lint disable final-definition-->
 
@@ -195,6 +211,7 @@ Thanks for the inspirations and attributions to GitHub‘s [Open Source Guides][
 [36]: https://opensource.how/etiquette
 [37]: https://github.com/features/codespaces
 [38]: https://codesandbox.io
+[39]: https://docs.photoprism.app/developer-guide
 
 <!--lint disable no-duplicate-definitions-->
 

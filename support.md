@@ -67,6 +67,24 @@ Support can also mean that you are looking for supportive content and informatio
 - **Content** — community contributions, conversations and more.
   - [Reddit][40] — join the official [`/r/nordtheme`][32] subreddit and feel free to also follow [`/u/nordtheme`][35] and [`/u/svengreb`][36].
 
+<p align="center">
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/nordtheme/assets/main/static/images/elements/separators/iceberg/footer/dark/spaced.svg?sanitize=true" width="100%" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <source srcset="https://raw.githubusercontent.com/nordtheme/assets/main/static/images/elements/separators/iceberg/footer/light/spaced.svg?sanitize=true" width="100%" media="(prefers-color-scheme: dark)" />
+    <img src="https://raw.githubusercontent.com/nordtheme/assets/main/static/images/elements/separators/iceberg/footer/dark/spaced.svg?sanitize=true" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  Copyright &copy; 2016-present <a href="https://www.svengreb.de" target="_blank">Sven Greb</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/nordtheme/.github/blob/main/license" target="_blank">
+    <img src="https://img.shields.io/static/v1.svg?style=flat-square&label=License&message=MIT&logoColor=eceff4&logo=creativecommons&colorA=4c566a&colorB=88c0d0"/>
+  </a>
+</p>
+
 [1]: https://mikemcquaid.com/open-source-maintainers-owe-you-nothing
 [2]: https://mikemcquaid.com/entitlement-in-open-source
 [3]: https://www.nordtheme.com/community
