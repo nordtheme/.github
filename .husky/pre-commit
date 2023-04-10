@@ -4,7 +4,6 @@
 # This source code is licensed under the Creative Commons Attribution-ShareAlike 4.0 International license.
 
 # Git "pre-commit" hook for husky.
-#
 # References:
 #   1. https://github.com/typicode/husky
 #   2. https://git-scm.com/docs/githooks#_pre_commit
